@@ -23,5 +23,9 @@ Example: //[:::][.][**]\n1:::2.3**4 returns 10.
 Files in this Repository
 1.calculator.py: Contains the core implementation of the stringcalculator function.
 2.test.test.py: Contains unit tests using Python's unittest module to verify the calculator's functionality.
+
 Prerequisites
-Python 3.x
+  Python 3.x
+
+how to run this file
+  in commmand prompt type : python3 test.test.py
